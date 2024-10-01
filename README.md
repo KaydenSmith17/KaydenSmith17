@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-jp2a --colors --width=20 ![Me](https://github.com/user-attachments/assets/ec303ef3-454c-4461-b021-fe46de3a8e59)
+# jp2a --colors --width=20 ![Me](https://github.com/user-attachments/assets/ec303ef3-454c-4461-b021-fe46de3a8e59)
 
 
 # About me 
