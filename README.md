@@ -1,5 +1,5 @@
 # Hello, world! 👋
-![Me](https://github.com/user-attachments/assets/-d335-40a5-8540-ffad8ea84439)jp2a --width=20 your-image-file.jpg
+![Me](https://github.com/user-attachments/assets/-d335-40a5-8540-ffad8ea84439)
 
 # About me 
 Im passionate about coding and always eager to learn new things.
