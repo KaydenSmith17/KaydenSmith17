@@ -1,5 +1,7 @@
 # Hello, world! 👋
-(https://github.com/user-attachments/assets/-d335-40a5-8540-ffad8ea84439)
+
+jp2a --colors --width=20 ![Me](https://github.com/user-attachments/assets/ec303ef3-454c-4461-b021-fe46de3a8e59)
+
 
 # About me 
 Im passionate about coding and always eager to learn new things.
