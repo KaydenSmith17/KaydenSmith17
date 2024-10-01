@@ -1,5 +1,8 @@
 # Hello, world! 👋
 
+![Profile Image](https://y[)](https://github.com/account)
+
+
 # About me 
 Im passionate about coding and always eager to learn new things.
 
@@ -15,4 +18,4 @@ Im passionate about coding and always eager to learn new things.
 - Tools: GitHub, VScode 
 
 
-# ! [Profile Image](https://github.com/KaydenSmith17) 
+
